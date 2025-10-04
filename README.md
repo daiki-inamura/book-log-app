@@ -1,1 +1,1 @@
-# book-log-app
+# book-log-app# book-qr-manager
